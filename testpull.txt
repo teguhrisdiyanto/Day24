@@ -2,3 +2,6 @@ ini pull
 
 
 ini pusss dari local
+
+
+Test push local GUI
