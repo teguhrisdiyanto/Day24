@@ -5,3 +5,6 @@ ini pusss dari local
 
 
 Test push local GUI
+
+
+Test pull GUI
